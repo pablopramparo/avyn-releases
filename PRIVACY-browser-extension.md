@@ -1,10 +1,10 @@
-# Avyn browser extension — privacy policy
+# Avyn Remote browser extension — privacy policy
 
 _Last updated: October 2026_
 
 ## Español
 
-La extensión de Avyn para el navegador existe para una sola cosa: que tu teléfono, a través de
+Avyn Remote, la extensión para el navegador, existe para una sola cosa: que tu teléfono, a través de
 Avyn Agent en tu propia PC, controle el video que se reproduce en una pestaña (pantalla completa,
 velocidad, subtítulos y los botones de saltar del reproductor).
 
@@ -27,7 +27,7 @@ en la PC y revocar los teléfonos vinculados.
 
 ## English
 
-Avyn's browser extension exists for one thing: letting your phone, through Avyn Agent on your own
+Avyn Remote, the browser extension, exists for one thing: letting your phone, through Avyn Agent on your own
 PC, control the video playing in a browser tab (fullscreen, speed, captions and the player's skip
 buttons).
 
