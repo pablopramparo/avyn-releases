@@ -6,4 +6,5 @@ Published via `vpk upload github` — see `windows-agent/AGENTS.md` in the main 
 
 ## Privacy
 
+- [Avyn Remote and Avyn Agent — privacy policy](PRIVACY.md)
 - [Avyn Remote browser extension — privacy policy](PRIVACY-browser-extension.md)
