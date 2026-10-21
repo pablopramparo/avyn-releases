@@ -1,6 +1,6 @@
 # Avyn — Privacy Policy
 
-Effective date: 12 October 2026
+Effective date: 21 October 2026
 Publisher: Pablo Pramparo — contact: avyn.remote@gmail.com
 
 ## In short
@@ -60,7 +60,9 @@ you delete them. Artwork and thumbnails are kept in the app's cache.
 In your Windows user profile (`%LocalAppData%\Avyn`), until you uninstall or delete it:
 
 - the Agent's certificate and the list of paired phones (name, identifier, pairing secret, dates),
-  protected with Windows' data protection for your user;
+  protected with Windows' data protection (the certificate for your user only; the phone list for
+  this PC, so that the administrator who approves unlocking can read it). Both files stay in your
+  profile, which only you, Windows and administrators can read;
 - your settings, display names, shared folders and routines;
 - if you pair a Samsung TV: its address, model and the access token the TV issued, protected the
   same way;
